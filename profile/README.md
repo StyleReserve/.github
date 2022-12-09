@@ -38,3 +38,8 @@ e. When adding clothes to StyleReserve, it is possible to add them automatically
 #### Kim Taehyeon, 김태현, Department of Information Systems (https://github.com/kimtahen) <div>
 #### Lee Seungho, 이승호, Department of Information Systems (https://github.com/SeunghoL22) <div> 
 #### Park Seeun, 박세은, Department of Information Systems (https://github.com/seeunplayer) <div>
+
+## Links
+#### Notion([notion.so/StyleReserve](https://disco-speedwell-fc7.notion.site/StyleReserve-30aacc52b1c944a59841797cf5c17394))
+
+#### Youtube([Youtu.be/StyleReserve](https://youtu.be/2R38V7gc_Mc))
