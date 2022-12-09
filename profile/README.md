@@ -1,7 +1,6 @@
-![image](https://user-images.githubusercontent.com/96063913/206665238-6cd0b2f8-ed3b-4091-93a5-fcf2b9a2fb27.png)
 # :necktie: StyleReserve
 This project was made for the Software Engineering course at Hanyang University.<div>
-
+![image](https://user-images.githubusercontent.com/96063913/206665238-6cd0b2f8-ed3b-4091-93a5-fcf2b9a2fb27.png)
 
 ## :pushpin: Abstract
 Styler is a very familiar appliance to modern people. You can put a smelly coat or jacket in your office after lunch. However, if the styler is already being used by other employees unexpectedly, it will be very difficult. Also, modern people have a lot of clothes and spend a lot of time thinking about what to wear tomorrow. There are even cases where my family wears the clothes that I will wear tomorrow first.
