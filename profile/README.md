@@ -18,9 +18,13 @@ Our team came up with 'Style Reserve' using LG Styler. "Style Reserve" is an app
 ## :pushpin: Target Users
 We looked at the needs of the major customer base of 'LG Styler', which is successful in business. We focused on two things below.
 1) The fact that multiple members can use the Styler in the office at the same time 
-  - The Styler can be used at any time you want without having to line up in front of the Styler in the office
+  - For large offices where multiple people share a limited number of styler, employees can pre-schedule the use of styer for each day, time zone, and course of their choice. 
+  - This saves users time and company money, and prevents confusion between users by making sure that it does not overlap with other users.
+  
 2) The fact that there are people at home who share clothes with their family members. 
-
+  - For users who share closets (clothes) with family members or friends, user can pre-schedule clothes for important days. Based on the clothes that each person has registered in the virtual closet, user can bring them to their own personal calendar and reserve them every day in advance, so that user can prepare clothes with a styler before appointment.
+  - Personal reservations are also registered on the shared member calendar, so those who share clothes can refer to this calendar to book clothes, preventing duplication and confusion.
+  
 So we named the "StyleReserve" in consideration of end-user in that it is a service to provide to those who need to make reservations at Style. The end-user may be an independent at office or an independent at home.
   
 ## :pushpin: Goal
