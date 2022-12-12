@@ -50,6 +50,6 @@ e. When adding clothes to StyleReserve, it is possible to add them automatically
 #### Park Seeun, 박세은, Department of Information Systems (https://github.com/seeunplayer) <div>
 
 ## Links
-#### Notion ([notion.so/StyleReserve](https://disco-speedwell-fc7.notion.site/StyleReserve-30aacc52b1c944a59841797cf5c17394))
+#### Notion ([https://disco-speedwell-fc7.notion.site/StyleReserve-30aacc52b1c944a59841797cf5c17394](https://disco-speedwell-fc7.notion.site/StyleReserve-30aacc52b1c944a59841797cf5c17394))
 
-#### Youtube ([Youtu.be/StyleReserve](https://youtu.be/2R38V7gc_Mc))
+#### Youtube ([https://youtu.be/2R38V7gc_Mc](https://youtu.be/2R38V7gc_Mc))
