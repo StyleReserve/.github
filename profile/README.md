@@ -52,4 +52,4 @@ e. When adding clothes to StyleReserve, it is possible to add them automatically
 ## Links
 #### Notion ([https://disco-speedwell-fc7.notion.site/StyleReserve-30aacc52b1c944a59841797cf5c17394](https://disco-speedwell-fc7.notion.site/StyleReserve-30aacc52b1c944a59841797cf5c17394))
 
-#### Youtube ([https://youtu.be/2R38V7gc_Mc](https://youtu.be/2R38V7gc_Mc))
+#### Youtube ([https://youtube.com/playlist?list=PLmAXFTFXUXtWQOq1sH_lPrpyhA7MlxT1T](https://youtube.com/playlist?list=PLmAXFTFXUXtWQOq1sH_lPrpyhA7MlxT1T))
